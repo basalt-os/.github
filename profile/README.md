@@ -29,5 +29,7 @@ desktop edition with voice, approvals from a paired phone, and a live ISO.
 Details, the roadmap and a way to tell us what you think are on
 [basalt-os.org](https://basalt-os.org). A person reads every message.
 
+Basalt OS was created by [Edimar Cardoso](https://edimar-cardoso.me/en).
+
 Basalt OS is an independent project, not affiliated with or endorsed by the
 Fedora Project or Red Hat.
